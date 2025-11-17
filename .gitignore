@@ -4,3 +4,6 @@ node_modules/
 
 # Ignore node_modules in all sub-packages
 **/node_modules/
+
+
+node_modules/**

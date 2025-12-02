@@ -19,7 +19,8 @@
     "react-countup": "^6.5.3",
     "react-i18next": "^15.7.3",
     "redux-persist": "^6.0.0",
-    "swiper": "^11.2.8"
+    "swiper": "^11.2.8",
+    "winston": "^3.18.3"
   },
   "devDependencies": {
     "lerna": "^8.2.0"
